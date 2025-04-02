@@ -1,4 +1,4 @@
-#include<stdio.h>
+#star
 #include<conio.h>
 void main()
 {
